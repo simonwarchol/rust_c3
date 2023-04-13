@@ -28,7 +28,7 @@ impl KdPoint for Item {
     fn at(&self, k: usize) -> f64 { self.point[k] }
 }
 
-pub(crate) struct C3 {
+pub struct C3 {
     color: Array2<f64>,
     c: usize,
     w: usize,
@@ -41,7 +41,7 @@ pub(crate) struct C3 {
     terms_count: Array1<i64>,
     tree: KdTree<Item>,
 }
-
+// make impl public
 impl C3 {
     pub fn new() -> C3 {
 
