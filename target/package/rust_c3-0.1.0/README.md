@@ -1,1 +1,0 @@
-Rust implementation of Heer and Stone's C3 library.
