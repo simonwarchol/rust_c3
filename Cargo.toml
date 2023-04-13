@@ -7,10 +7,6 @@ readme = "README.md"
 description = "C3 for Rust"
 homepage = "https://www.github.com/simonwarchol/rust_c3"    # project home page, if any
 repository = "https://www.github.com/simonwarchol/rust_c3" # project repository, if any
-include = [
-    "**/*.rs",
-    "Cargo.toml",
-]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -19,5 +15,6 @@ include = [
 kd-tree = "0.5.1"
 kolor = "0.1.8"
 ndarray = "0.15.6"
+ndarray-npy = "0.8.1"
 serde_json = "1.0.96"
 typenum = "1.16.0"
