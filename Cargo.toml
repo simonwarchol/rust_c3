@@ -2,6 +2,12 @@
 name = "rust_c3"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "C3 for Rust"
+homepage = "https://www.github.com/simonwarchol/rust_c3"    # project home page, if any
+repository = "https://www.github.com/simonwarchol/rust_c3" # project repository, if any
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
