@@ -1,1 +1,0 @@
-/Users/simon/Research/rust_c3/target/debug/rust_c3: /Users/simon/Research/rust_c3/target/package/rust_c3-0.2.0/src/c3_terms.rs /Users/simon/Research/rust_c3/target/package/rust_c3-0.2.0/src/item.rs /Users/simon/Research/rust_c3/target/package/rust_c3-0.2.0/src/lib.rs /Users/simon/Research/rust_c3/target/package/rust_c3-0.2.0/src/main.rs
